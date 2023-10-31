@@ -16,7 +16,7 @@ To get a better understanding of your lab resources and credentials, navigate to
    
 ## **Let's Get Started with Jupyterhub**
 
-1. Open a New tab in the browser and copy the DNS endpoint available in the Environment Details tab and paste it in the URL location, which will redirect to the Jupyterhub server running inside the ACI.
+1. Open a New tab in the browser and copy the DNSforACI endpoint available in the Environment Details tab and paste it in the URL location, which will redirect to the Jupyterhub server running inside the Azure Container Instance.
 
    ![Explore Lab Resources](./Images/3.png)
 
@@ -35,7 +35,7 @@ To get a better understanding of your lab resources and credentials, navigate to
    
    ![Explore Lab Resources](./Images/7.png) 
 
-5. To run the notebook files, navigate to the code area and click on **Run** icon as shown below.
+5. To run a notebook, simply click on the notebook file you want to open, and it will open in a new tab within JupyterLab. You can then use the "Run" icon (typically a play button) within the notebook interface to execute code cells.
 
     ![Explore Lab Resources](./Images/8.png) 
  
