@@ -1,6 +1,6 @@
 # **Getting Started with Your Deep-Learning-with-JupyterHub**
  
-Welcome to your Deep-Learning-with-JupyterHub! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+Welcome to your Deep-Learning-with-JupyterHub! We've prepared a seamless environment for you to explore and learn Deep Learning modules. Let's begin by making the most of this experience:
  
 ## **Accessing Your Lab Environment**
  
